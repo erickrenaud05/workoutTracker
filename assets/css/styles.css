@@ -1,0 +1,22 @@
+/* color pallet
+#151515
+#A91D3A
+#C73659
+#EEEEEE */
+
+body{
+    background-color: #EEEEEE;
+}
+
+header {
+    background: linear-gradient(to bottom, #A91D3A, #C73659);
+}
+
+#routineFormBtn {
+    background-color: #151515;
+    color: #EEEEEE;
+}
+
+#workoutDay{
+    color: #151515 
+}
